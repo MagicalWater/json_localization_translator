@@ -1,6 +1,6 @@
 Language: [English](README.md)
 
-# json_dart_generator
+# json_localization_translator
 [![Pub](https://img.shields.io/pub/v/json_localization_translator.svg?style=flat-square)](https://pub.dartlang.org/packages/json_localization_translator)
 
 json localization data translator,
