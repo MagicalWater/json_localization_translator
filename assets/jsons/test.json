@@ -1,0 +1,11 @@
+{
+  "hello": "hello",
+  "yellow": "yellow",
+  "inner": {
+    "test": "inside",
+    "confirm": "confirm",
+    "depth": {
+      "depthTitle": "title"
+    }
+  }
+}

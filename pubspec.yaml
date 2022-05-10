@@ -1,0 +1,20 @@
+name: json_localization_translator
+description:
+  json localization data translator,
+  based on the 'translator' package
+
+version: 0.0.1+1
+homepage: https://github.com/MagicalWater/json_localization_translator
+
+environment:
+  sdk: '>=2.16.2 <3.0.0'
+
+dependencies:
+  translator: ^0.1.7
+  args: ^2.3.0
+
+dev_dependencies:
+  lints: ^1.0.0
+
+executables:
+  json_localization_translator:

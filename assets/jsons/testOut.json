@@ -1,0 +1,11 @@
+{
+  "hello": "你好",
+  "yellow": "黃色的",
+  "inner": {
+    "test": "裡面",
+    "confirm": "確認",
+    "depth": {
+      "depthTitle": "標題"
+    }
+  }
+}
