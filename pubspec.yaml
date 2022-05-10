@@ -12,6 +12,7 @@ environment:
 dependencies:
   translator: ^0.1.7
   args: ^2.3.0
+  collection: ^1.16.0
 
 dev_dependencies:
   lints: ^1.0.0
