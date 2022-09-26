@@ -61,6 +61,11 @@ class JsonValueParser {
     // }
     // print('組合後: ${splitTranslate.join(TranslateMap.splitPattern)}');
 
+
+    // print('原始');
+    // print('========');
+    // print(_parseData?.source.values.map((e) => e.toTranslateSource()));
+    // print('\n\n\n\n');
     // print('翻譯結果 to en');
     // print('========');
     // print(splitTranslate);

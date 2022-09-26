@@ -10,5 +10,8 @@ abstract class TranslateType<T> {
   /// 綁定翻譯後的字串值
   void bindTranslateValue(String locale, String value);
 
+  /// 遍歷設定翻譯
+  List<String> loopMatchValue(String locale, List<String> valueList);
+
   T exportJson(String locale);
 }
